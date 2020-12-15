@@ -43,7 +43,7 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 ### Contact Me <br>
 [<img align="left" alt="https://www.linkedin.com/in/ranjan-panda/" width="50px" src="https://github.com/ranjan-panda/Bio/blob/master/linkedin.gif" />][linkedin]
 [<img align="left" alt="https://github.com/ranjan-panda/" width="50px" src="https://github.com/ranjan-panda/Bio/blob/master/github.gif" />][github]
-[<img align="left" alt="https://www.facebook.com/p.ranjan.panda.1" width="50px" src="https://github.com/ranjan-panda/Bio/blob/master/fb1.gif" />][facebook]\
+[<img align="left" alt="https://www.facebook.com/p.ranjan.panda.1" width="50px" src="https://github.com/ranjan-panda/Bio/blob/master/fb.gif" />][facebook]\
 <br/>
 
 :exclamation::exclamation:Open to anything under Sun:exclamation::exclamation:
@@ -68,4 +68,4 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 
 [linkedin]:https://www.linkedin.com/in/ranjan-panda
 [github]:https://github.com/ranjan-panda/
-[instagram]:https://www.facebook.com/p.ranjan.panda.1
+[facebook]:https://www.facebook.com/p.ranjan.panda.1
