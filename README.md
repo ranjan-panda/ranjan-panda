@@ -17,7 +17,7 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 - 👨 From using TV Remote as a Mobile to using Mobile as a TV Remote, I grew up (PS: I MISS MY CHILDHOOD :sob::sob::sob:).
 - 👅 I prefer Python Over C++ &nbsp; &nbsp;:P :D
 - 📫 How to reach me: preetiranjanpanda2014@gmail.com
-- 📝 Checkout my [Resume](https://github.com/ranjan-panda/Bio/blob/master/resume.pdf).
+- 📝 Checkout my [Resume](https://github.com/ranjan-panda/ranjan-panda/blob/master/Resume.pdf).
 
 <img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
 
