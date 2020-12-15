@@ -1,4 +1,4 @@
-<img src="https://github.com/ranjan-panda/Bio/blob/master/Powerfull-words-PixTeller%20(1)%20(1).gif" width="550px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/ranjan-panda/Bio/blob/master/Powerfull-words-PixTeller%20(1)%20(1).gif" width="480px"></h2>&nbsp; &nbsp; &nbsp;
 
 ### There are (10^9 + 7) profiles on Github......Welcome to mine! <img src="https://github.com/ranjan-panda/Bio/blob/master/gifs/emoji.gif" width="27px">
 
