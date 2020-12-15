@@ -1,16 +1,16 @@
-<img src="https://github.com/ranjan-panda/Bio/blob/master/Powerfull-words-PixTeller%20(1)%20(1).gif" width="480px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/ranjan-panda/Bio/blob/master/Powerfull-words-PixTeller%20(1)%20(1).gif" width="480px" align="left"></h2>&nbsp; &nbsp; &nbsp;
 
 ### There are (10^9 + 7) profiles on Github......Welcome to mine! <img src="https://github.com/ranjan-panda/Bio/blob/master/gifs/emoji.gif" width="27px">
 
 I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 from **Vellore Institute of Technology** 🏛. I'm a passionate learner who is always willing to learn and work across different technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to Code👨🏻‍💻. I'm currently into Flutter Development 🚀 and working on my Public Speaking Skills🤓.
 
-<img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
+<img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="40px"></h2>
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/ranjan-panda/Bio/blob/master/coding2.gif" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working with Flutter :flutter:.
+- 🛠 I’m currently working with Flutter .
 - :wrench: I love to play with Neural Networks :computer:.
 - 🚀 I’m currently learning Deployment of Deep Learning models using Flask.
 - 👾 Most of my projects are available on [Github](https://github.com/ranjan-panda/).
