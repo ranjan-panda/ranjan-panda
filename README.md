@@ -2,7 +2,7 @@
 
 ### There are (10^9 + 7) profiles on Github......Welcome to mine! <img src="https://github.com/ranjan-panda/Bio/blob/master/gifs/emoji.gif" width="27px">
 
-I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 from **Vellore Institute of Technology** 🏛. I'm a passionate learner who is always willing to learn and work across different technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to Code👨🏻‍💻. I'm currently into Deep-Learning 🕸️ and working on my Public Speaking Skills🤓.
+I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 from **Vellore Institute of Technology** 🏛. I'm a passionate learner who is always willing to learn and work across different technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to Code👨🏻‍💻. I'm currently into Flutter Development 🕸️ and working on my Public Speaking Skills🤓.
 
 <img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
 
@@ -43,7 +43,7 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 ### Contact Me <br>
 [<img align="left" alt="https://www.linkedin.com/in/khushhalreddy/" width="50px" src="https://github.com/ranjan-panda/Bio/blob/master/linkedin.gif" />][linkedin]
 [<img align="left" alt="https://github.com/ranjan-panda/" width="50px" src="https://github.com/ranjan-panda/Bio/blob/master/github.gif" />][github]
-[<img align="left" alt="https://www.instagram.com/w._.icked_hyp.ster/" width="50px" src="https://github.com/ranjan-panda/Bio/blob/master/insta.gif" />][instagram]\
+[<img align="left" alt="https://www.instagram.com/w._.icked_hyp.ster/" width="50px" src="https://github.com/ranjan-panda/Bio/blob/master/insta.gif" />][facebook]\
 <br/>
 
 :exclamation::exclamation:Open to anything under Sun:exclamation::exclamation:
@@ -66,6 +66,6 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 <img src="https://github.com/ranjan-panda/Bio/blob/master/add2.gif" width="1400px" height="10px"></h2>
 
 
-[linkedin]:http://www.linkedin.com/in/pranjanpanda
+[linkedin]:https://www.linkedin.com/in/ranjan-panda
 [github]:https://github.com/ranjan-panda/
-[facebook]:https://www.facebook.com/p.ranjan.panda.1
+[instagram]:https://www.instagram.com/w._.icked_hyp.ster/
