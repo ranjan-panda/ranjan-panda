@@ -24,9 +24,10 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 ### My Tech Stack:
 
 <img src="https://github.com/ranjan-panda/Bio/blob/master/flutter.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/ranjan-panda/Bio/blob/master/python%20gif.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/ranjan-panda/Bio/blob/master/dart.png" width="100px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/ranjan-panda/Bio/blob/master/firebase.gif" height="50px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/ranjan-panda/Bio/blob/master/cpp.png" width="50px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/ranjan-panda/Bio/blob/master/aws.gif" width="100px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/ranjan-panda/Bio/blob/master/python%20gif.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/ranjan-panda/Bio/blob/master/opencv.png" width="45px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/ranjan-panda/Bio/blob/master/flask.png" width="100px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/ranjan-panda/Bio/blob/master/hadoop.jpg" width="80px"></h2>&nbsp; &nbsp; &nbsp;
