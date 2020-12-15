@@ -41,9 +41,9 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 <img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
 
 ### Contact Me <br>
-[<img align="left" alt="https://www.linkedin.com/in/khushhalreddy/" width="50px" src="https://github.com/ranjan-panda/Bio/blob/master/linkedin.gif" />][linkedin]
+[<img align="left" alt="https://www.linkedin.com/in/ranjan-panda/" width="50px" src="https://github.com/ranjan-panda/Bio/blob/master/linkedin.gif" />][linkedin]
 [<img align="left" alt="https://github.com/ranjan-panda/" width="50px" src="https://github.com/ranjan-panda/Bio/blob/master/github.gif" />][github]
-[<img align="left" alt="https://www.instagram.com/w._.icked_hyp.ster/" width="50px" src="https://github.com/ranjan-panda/Bio/blob/master/fb.gif" />][facebook]\
+[<img align="left" alt="https://www.facebook.com/p.ranjan.panda.1" width="50px" src="https://github.com/ranjan-panda/Bio/blob/master/fb.gif" />][facebook]\
 <br/>
 
 :exclamation::exclamation:Open to anything under Sun:exclamation::exclamation:
