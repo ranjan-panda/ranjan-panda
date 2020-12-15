@@ -66,6 +66,6 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 <img src="https://github.com/ranjan-panda/Bio/blob/master/add2.gif" width="1400px" height="10px"></h2>
 
 
-[linkedin]:https://www.linkedin.com/in/khushhalreddy/
+[linkedin]:http://www.linkedin.com/in/pranjanpanda
 [github]:https://github.com/ranjan-panda/
-[instagram]:https://www.instagram.com/w._.icked_hyp.ster/
+[facebook]:https://www.facebook.com/p.ranjan.panda.1
