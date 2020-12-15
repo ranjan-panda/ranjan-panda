@@ -10,7 +10,7 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working with Pytorch :flashlight:.
+- 🛠 I’m currently working with Flutter :flutter:.
 - :wrench: I love to play with Neural Networks :computer:.
 - 🚀 I’m currently learning Deployment of Deep Learning models using Flask.
 - 👾 Most of my projects are available on [Github](https://github.com/ranjan-panda/).
@@ -23,6 +23,7 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 
 ### My Tech Stack:
 
+<img src="https://github.com/ranjan-panda/Bio/blob/master/flutter.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/ranjan-panda/Bio/blob/master/python%20gif.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/ranjan-panda/Bio/blob/master/cpp.png" width="50px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/ranjan-panda/Bio/blob/master/aws.gif" width="100px"></h2>&nbsp; &nbsp; &nbsp;
