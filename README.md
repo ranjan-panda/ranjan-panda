@@ -1,25 +1,24 @@
-<img src="https://github.com/ranjan-panda/Bio/blob/master/Powerfull-words-PixTeller%20(1)%20(1).gif" width="480px" align="left"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/ranjan-panda/Bio/blob/master/Powerfull-words-PixTeller%20(1)%20(1).gif" width="480px"></h2>&nbsp; &nbsp; &nbsp;
 
 ### There are (10^9 + 7) profiles on Github......Welcome to mine! <img src="https://github.com/ranjan-panda/Bio/blob/master/gifs/emoji.gif" width="27px">
 
 I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 from **Vellore Institute of Technology** 🏛. I'm a passionate learner who is always willing to learn and work across different technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to Code👨🏻‍💻. I'm currently into Flutter Development 🚀 and working on my Public Speaking Skills🤓.
 
-<img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="40px"></h2>
+<img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="25px"></h2>
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/ranjan-panda/Bio/blob/master/coding2.gif" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working with Flutter .
-- :wrench: I love to play with Neural Networks :computer:.
-- 🚀 I’m currently learning Deployment of Deep Learning models using Flask.
+- 🛠 I’m currently working on Flutter.
+- :wrench: I love making Android and iOS apps with Dart 📱 .
 - 👾 Most of my projects are available on [Github](https://github.com/ranjan-panda/).
 - 👨 From using TV Remote as a Mobile to using Mobile as a TV Remote, I grew up (PS: I MISS MY CHILDHOOD :sob::sob::sob:).
 - 👅 I prefer Python Over C++ &nbsp; &nbsp;:P :D
 - 📫 How to reach me: preetiranjanpanda2014@gmail.com
 - 📝 Checkout my [Resume](https://github.com/ranjan-panda/ranjan-panda/blob/master/Resume.pdf).
 
-<img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
+<img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="25px"></h2>
 
 ### My Tech Stack:
 
@@ -40,7 +39,7 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 <img src="https://github.com/ranjan-panda/Bio/blob/master/php.gif" height="50px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/ranjan-panda/Bio/blob/master/mysql.jpg" width="100px"></h2>&nbsp; &nbsp; &nbsp;
 
-<img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
+<img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="25px"></h2>
 
 ### Contact Me <br>
 [<img align="left" alt="https://www.linkedin.com/in/ranjan-panda/" width="50px" src="https://github.com/ranjan-panda/Bio/blob/master/linkedin.gif" />][linkedin]
@@ -51,7 +50,7 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 :exclamation::exclamation:Open to anything under Sun:exclamation::exclamation:
 
 
-<img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
+<img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="25px"></h2>
 
 <a href="https://github.com/ranjan-panda">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ranjan-panda&show_icons=true&theme=merko&count_private=true" />
